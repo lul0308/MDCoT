@@ -1,0 +1,12 @@
+google
+openai
+torch 
+transformers 
+tqdm
+PIL
+numpy 
+pandas 
+pillow
+scipy
+accelerate 
+
